@@ -1,0 +1,5 @@
+The simple solution to the given problem statement is as follows:
+1. I will approach this problem by first finding all of the URLs on the website that I want to crawl. 
+2. Once I have a list of all of the URLs, I will then make an HTTP request to each URL to get the HTML content of the page. 
+3. Now that I have HTML content of the page, I will use a Regular Expression to find all of the image URLs and text on the page. 
+4. Having image URLs and text, I will save them to my computer.
