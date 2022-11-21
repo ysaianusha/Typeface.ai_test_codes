@@ -3,3 +3,15 @@ The simple solution to the given problem statement is as follows:
 2. Once I have a list of all of the URLs, I will then make an HTTP request to each URL to get the HTML content of the page. 
 3. Now that I have HTML content of the page, I will use a Regular Expression to find all of the image URLs and text on the page. 
 4. Having image URLs and text, I will save them to my computer.
+
+Other approach of solving the problem could be:
+
+The first step is to come up with a plan of how you will approach the problem. In this case, you need to figure out how to crawl a website and save the images and text. Once you have a plan, you can start to break down the components you need.
+
+The first component you need is a web crawler. A web crawler is a program that goes through websites and follows links to other pages. As it crawls, it can save information like the text on the page and the URL of the page.
+
+The second component you need is a way to save the text and images from the pages that the web crawler visits. You can do this by saving the HTML of the pages or by using an image capture program.
+
+The last component you need is a way to store all of the information that you have saved. You can do this by using a database or by saving the information to files on your computer.
+
+Once you have all of the components, you can start to put them together. The web crawler will start at a website and follow the links to other pages. As it visits each page, it will save the text and images. Once it has visited all of the pages, it will
